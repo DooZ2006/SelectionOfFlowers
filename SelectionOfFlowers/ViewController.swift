@@ -40,6 +40,8 @@ class ViewController: UIViewController {
         greenLabel.textColor = .green
         blueLabel.textColor = .blue
         
+        changeColorView()
+        
     }
     
     @IBAction func changeTheAmountOfRed() {
